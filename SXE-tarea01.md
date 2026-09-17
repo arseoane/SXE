@@ -17,3 +17,5 @@
 <img width="624" height="112" alt="image" src="https://github.com/user-attachments/assets/24038e96-276d-4def-823e-0acaefda8db9" />
 <img width="837" height="281" alt="image" src="https://github.com/user-attachments/assets/1396c519-d535-43a2-b7e3-6db5406bb8d7" />
 
+### Probamos el servidor Apache:
+<img width="1263" height="503" alt="image" src="https://github.com/user-attachments/assets/f4af9f25-7747-4969-89f2-85761831c6bf" />
