@@ -19,3 +19,7 @@
 
 ### Probamos el servidor Apache:
 <img width="1263" height="503" alt="image" src="https://github.com/user-attachments/assets/f4af9f25-7747-4969-89f2-85761831c6bf" />
+
+### Instalamos WordPress:
+<img width="725" height="215" alt="image" src="https://github.com/user-attachments/assets/f5aa0671-1c6e-4c91-a0dc-626a67663010" />
+
