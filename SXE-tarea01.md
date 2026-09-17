@@ -1,11 +1,11 @@
 ## 17/09/26
 | Elemento | Lo que dice la documentación | Lo que necesita la VM | Otros (Comentarios que consideres relevantes) | Fuente de info: |
 | --- | --- | --- | --- | --- |
-| S.O. | No especifica | Sistema sin entorno gráfico | Usaré Ubuntu Server |  |
-| Servidor web | Apache | Apache | Usaré Apache |  |
-| Versión de PHP | 8.3 o superior | 8.3 o superior | Usaré PHP 8.3 |  |
-| Gestor de BBDD | MariaDB 10.11+ o MySQL 8.0+ | MariaDB 10.11+ o MySQL 8.0+ | Usaré MySQL |  |
-| Memoria y Disco | No especifica | 4 GB y 30 GB |  |  |
+| S.O. | No especifica | Sistema sin entorno gráfico | Usaré Ubuntu Server | Experiencia previa |
+| Servidor web | Apache | Apache | Usaré Apache | [Documentación Wordpress](https://es.wordpress.org/about/requirements/) |
+| Versión de PHP | 8.3 o superior | 8.3 o superior | Usaré PHP 8.3 | [Documentación Wordpress](https://es.wordpress.org/about/requirements/) |
+| Gestor de BBDD | MariaDB 10.11+ o MySQL 8.0+ | MariaDB 10.11+ o MySQL 8.0+ | Usaré MySQL | [Documentación Wordpress](https://es.wordpress.org/about/requirements/) |
+| Memoria y Disco | No especifica | 4 GB y 30 GB | Usaré 4 GB y 30 GB | [Documentación Wordpress](https://es.wordpress.org/about/requirements/) |
 
 ### Instalación:
 <img width="1274" height="651" alt="image" src="https://github.com/user-attachments/assets/0115dfc0-04d5-4d27-bd38-a08779544185" />
