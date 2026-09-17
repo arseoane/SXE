@@ -23,4 +23,5 @@
 ### Instalamos WordPress:
 <img width="725" height="215" alt="image" src="https://github.com/user-attachments/assets/f5aa0671-1c6e-4c91-a0dc-626a67663010" />
 <img width="1164" height="674" alt="image" src="https://github.com/user-attachments/assets/b4a07b17-8c62-4d22-8652-b27f1d7277f6" />
+<img width="765" height="446" alt="image" src="https://github.com/user-attachments/assets/32956618-3f7d-4f54-b52a-c9a2e6f966ba" />
 
