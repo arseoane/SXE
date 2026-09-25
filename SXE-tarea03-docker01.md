@@ -8,3 +8,10 @@ Creamos el contenedor dam_alp1:
 
 <img width="594" height="38" alt="image" src="https://github.com/user-attachments/assets/446901cd-709c-461f-abff-f3e4cbceb48c" />
 
+Vemos su IP:
+
+<img width="749" height="310" alt="image" src="https://github.com/user-attachments/assets/27d2667a-90ec-4cf5-a065-683b476fc474" />
+
+Hacemos ping a google.com:
+
+<img width="561" height="408" alt="image" src="https://github.com/user-attachments/assets/be856727-b7f9-40ae-880b-c58a6d46ebfa" />
