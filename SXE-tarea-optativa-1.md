@@ -18,3 +18,9 @@ Nos comprueba los requisitos para la instalación:
 
 Le creamos una base de datos que pueda usar:
 <img width="860" height="482" alt="image" src="https://github.com/user-attachments/assets/3e4c0cea-50ca-4b63-827e-b947665425e2" />
+
+Comprueba la conexión:
+<img width="909" height="580" alt="image" src="https://github.com/user-attachments/assets/31176c83-7846-426d-a55b-457da1626329" />
+
+El panel de administrador:
+<img width="943" height="729" alt="image" src="https://github.com/user-attachments/assets/5c8e1ca6-9a1a-4d41-b984-dfa88fa4f8f8" />
