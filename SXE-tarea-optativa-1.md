@@ -15,3 +15,6 @@ Vamos a la carpeta que nos indica, la **/install**:
 
 Nos comprueba los requisitos para la instalación:
 <img width="918" height="686" alt="image" src="https://github.com/user-attachments/assets/ee302fab-311f-43d4-a4f8-0946732ccd1b" />
+
+Le creamos una base de datos que pueda usar:
+<img width="860" height="482" alt="image" src="https://github.com/user-attachments/assets/3e4c0cea-50ca-4b63-827e-b947665425e2" />
