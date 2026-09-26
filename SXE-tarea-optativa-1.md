@@ -13,3 +13,5 @@ Comprobamos si Dolibarr funciona:
 Vamos a la carpeta que nos indica, la **/install**:
 <img width="781" height="431" alt="image" src="https://github.com/user-attachments/assets/c67e94dd-344f-4b9b-aa7f-83d885cc89d8" />
 
+Nos comprueba los requisitos para la instalación:
+<img width="918" height="686" alt="image" src="https://github.com/user-attachments/assets/ee302fab-311f-43d4-a4f8-0946732ccd1b" />
