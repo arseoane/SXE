@@ -7,3 +7,9 @@ Entramos en MariaDB para rehacer la base de datos de Wordpress para que Wordpres
 Instalamos el paquete de Dolibarr:
 <img width="873" height="199" alt="image" src="https://github.com/user-attachments/assets/34f3d583-c5c1-4e81-a29f-9fbcc58194dc" />
 
+Comprobamos si Dolibarr funciona:
+<img width="778" height="131" alt="image" src="https://github.com/user-attachments/assets/1f4db0fb-4283-403b-a1b5-4d30fc3b293e" />
+
+Vamos a la carpeta que nos indica, la **/install**:
+<img width="781" height="431" alt="image" src="https://github.com/user-attachments/assets/c67e94dd-344f-4b9b-aa7f-83d885cc89d8" />
+
